@@ -17,6 +17,6 @@ An attempt to read, understand, and implement the AUTOSAR SWS Port Driver accord
 2. Clone the repository:
     ```
     git clone https://github.com/hussein-shamy/AUTOSAR-PortDriver
-    cd AVR-mini-projects
+    cd AUTOSAR-PortDriver
     ```
 3. Build and Flash and Enjoy Tracing
